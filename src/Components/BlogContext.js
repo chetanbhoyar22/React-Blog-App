@@ -269,7 +269,7 @@ export const BlogProvider = (props) => {
       Title: "Sprint",
       Body: `Sprinting is running over a short distance at the top-most speed of the body in a limited period of time. The use of starting blocks allows the sprinter to perform an enhanced isometric preload.`,
       Category: "Fitness",
-      Image: "https://blog.mapmyrun.com/wp-content/uploads/2016/06/7EasyYogaPosesforRunners.jpg",
+      Image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUy6e7_anvD5qIIvW_vBWLB-jViM258UQLVw&usqp=CAU",
       Author: "Chetan Bhoyar",
       Date: "August 09, 2021",
     },
